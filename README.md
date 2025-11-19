@@ -1,1 +1,2 @@
 # Network-monitoring-Log-Analysis--Splunk-Alert-Project-Detecting-Failed-Logins-on-Windows-Server-
+This project demonstrates the practical use of Splunk for real-time log monitoring and alerting. Detecting Failed Log-in on Windows Server, suspicious activities and multiple failed login attempts(Event ID 4625) followed by a successful login(Event ID 4624) on a Windows Server. Such activities often indicates a brute-force attack or unauthorised access attempt.
